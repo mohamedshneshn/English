@@ -1,0 +1,104 @@
+/*
+-kitchen vocabulary:
+--------------------
+- kitchen             ex: I'm in the kitchen.
+- fridge              ex: can you put the milk in the fridge?
+- freezer             ex: can you put the ice cream in the freezer?
+-dinning table        ex: we eat our food on the dinning table.
+- chair               ex: please sit on the chair.  or please take a chair.
+- high chair          ex: you should put your baby in the high chair.
+- oven                ex: you should put the cake in the oven.
+- stove               ex: please make sure that the stove is off.
+- burner              ex: you should turn on the burner.
+- microwave           ex: you should put the food in the microwave.
+- dishwasher          ex: you should put the dishes in the dishwasher.
+- sink                ex: you should wash your hands in the sink or you should wash the dishes in the sink.
+- tap=faucet (faaset) ex: you should turn on the tap. or you should turn off the tap.
+- cupboard=cabinet    ex: you should put the dishes in the cupboard.
+- drawer(ˈdrôr)       ex: you should put the spoons in the drawer. 
+- plate               ex: you should put the food on the plate.
+- bowl  bōl           ex: you should put the soup in the bowl.
+- cup                 ex: you should put the tea in the cup.
+- glass               ex: you should put the juice in the glass.
+- fork                ex: you should use the fork to eat the food.
+- knife               ex: you should use the knife to cut the food.
+- spoon               ex: you should use the spoon to eat the soup.
+- spatula ˈspaCHələ   ex: you should use the spatula to flip the eggs.
+- scoop               ex: you should use the scoop to scoop the ice cream.
+- pan                 ex: you should use the pan to fry the eggs.
+- cutting board       ex: you should use the cutting board to cut the vegetables.
+- kettle              ex: you should use the kettle to boil the water.
+- toaster             ex: you should use the toaster to toast the bread.
+- blender             ex: you should use the blender to blend the fruits.
+- mixer               ex: you should use the mixer to mix the ingredients like eggs and flour.
+- whisk               ex: you should use the whisk to whisk the eggs.
+- scales              ex: you should use the scales to measure the weight of the ingredients.
+- bin                 ex: you should put the rubbish in the bin.
+- bin bag            ex: you should put the rubbish in the bin bag.
+- tea towel          ex: you should use the tea towel to dry the dishes.
+- oven glove        ex: you should use the oven glove to take the hot food out of the oven.
+- apron            ex: you should wear the apron to protect your clothes from getting dirty.
+- tray            ex: you should put the food on the tray.صينية
+- shelf
+- coffee grinder  ex: you should use the coffee grinder to grind the coffee beans.
+- cheese grater   ex: you should use the cheese grater to grate the cheese.
+
+- living room vocabulary:
+-------------------------
+- living room      ex: I'm in the living room.
+- sofa             ex: please sit on the sofa.
+- couch            ex: please sit on the couch.
+- armchair         ex: please sit on the armchair.
+- coffee table     ex: you should put the coffee on the coffee table.
+- bookcase         ex: you should put the books on the bookcase.
+- bookshelf
+- book
+- magazine
+- newspaper
+- remote control
+- television
+- TV
+- TV stand
+- TV cabinet
+- TV unit
+- TV table
+
+- bedroom vocabulary:
+---------------------
+- bedroom
+- bed
+- pillow
+- blanket
+- sheet
+- duvet
+- duvet cover
+- wardrobe
+- closet
+- drawer
+- lamp
+- nightstand
+- bedside table
+- alarm clock
+- mirror
+- rug
+- carpet
+- curtain  ˈkərtn        ex: you should close the curtain.
+- window
+- door
+- ceiling
+- wall
+
+- bathroom vocabulary:
+----------------------
+- bathroom
+- toilet
+- sink
+- tap
+- faucet
+- bathtub
+- shower
+- shower curtain
+- shower head
+
+
+*/
