@@ -21,6 +21,7 @@ take
     ex: the plane took off at 8:00 am.
     ex: when does the plane take off?
     ex: what time does the plane take off?
+    ex: what is the take off time?and what is the landing time?
 
 -take out = يأخذ
     ex: i took out the trash.
@@ -31,6 +32,9 @@ take
 
 -take up = يبدأ
     ex: i took up a new hobby. i started playing the guitar.
+
+- take off = يخلع = يزيل = ينزع
+    ex: son take off your shoes before you get in the house.
 
 
  */

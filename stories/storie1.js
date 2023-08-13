@@ -1,7 +1,7 @@
 /*
 i'm particularly proud and happy about the young filmmakers, actors, singers, writers, producers that are coming up behind my generation.
-
-in particular,barry jenkins.Young people understand this young man made 10,15,20 short films before he got the opportunity to make moonlight,
+in particular,barry jenkins.Young people understand this young man made 10,15,20 short films before he got the opportunity to
+ make moonlight,
 
 so never give up. Without commitment, you'll never start, but more importantly, without consistency, you'll never finish.
 
@@ -74,7 +74,7 @@ ex: keep striving = keep trying
 fall down: يسقط
 fɔːl daʊn
 ------------
-ex: Fall down seven times = Fall down seven times
+ex: Fall down seven times but get up eight
 
 
 
