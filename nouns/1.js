@@ -16,6 +16,7 @@
 
 - knot = عقدة
     ex: i can't open this knot. it's too tight.
+    ex: this knot is too tight. i can't open it.
 
 - tie = ربط - ربطة عنق
     ex: tie this rope to the tree.
@@ -47,5 +48,41 @@
 - lose = خسر - فقد
     ex: i lost my wallet. i don't know where it is.
     ex: you will lose your job if you don't work hard.  
+
+- loss = خسارة ""
+    ex: i lost my wallet. it's a big loss.
+
+- throw = رمى
+    ex: throw the ball to me.
+    ex: throw the garbage in the trash can.
+
+- throw away = رمى
+    ex: throw away the garbage in the trash can.
+
+- throw up = قيء
+    ex: i ate something bad. i think i will throw up.= vomit
+
+- man = رجل
+   ex : i like this man. he is very kind.
+
+- man up = كن رجلا
+   ex: man up and face your problems.
+
+- speak  = تكلم
+    ex: speak louder. i can't hear you.
+
+- speak up = تكلم بصوت عالي
+    ex: speak up. i can't hear you.
+
+- occupy = احتل
+    ex: the enemy occupied the city.= take over = capture = 
+
+- occupation = مهنة
+    ex: what's your occupation? i'm a doctor. = job
+
+- occupied = مشغول
+    ex: i'm sorry. i'm occupied right now. can i call you later?
+    ex: i'm sorry. the bathroom is occupied.=
+
 
 */

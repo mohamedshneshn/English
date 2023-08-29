@@ -10,8 +10,8 @@ bow
 ex: bow to your king. تنحني لملكك
 ex:
 
-violence
----------
+
+
 
 
 

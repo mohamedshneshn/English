@@ -100,7 +100,26 @@
     ex: why are you lying to me? i'm not lying to you.
 
 
+- no retreat, no surrender = لا تراجع ولا استسلام
+    ex: i will not give up. no retreat, no surrender.
 
+- pull   = سحب
+    ex: pull the door to open it.
+    ex: pull the rope to lift the box.
+
+- withdraw = سحب
+    ex: i want to withdraw some money from the bank.
+
+- retreat = انسحاب 
+    ex: the army retreated from the battle.
+
+- drop out = ترك الدراسة
+    ex: i dropped out of school when i was 16.
+    ex: i will drop out of school if i don't pass the exam.
+
+- surrender = استسلام = give up
+    ex: the army surrendered to the enemy.
+    ex: don't surrender to your problems. 
 
 
 
