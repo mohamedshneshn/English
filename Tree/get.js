@@ -59,6 +59,7 @@ get
 -get off = ينزل
     ex: get off the bus.
     ex: get off the train.
+    ex
     
 
 -get to = يصل الى
